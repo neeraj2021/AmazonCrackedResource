@@ -50,13 +50,13 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | ------ | ------ | ------ |
 | [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) | Done |  |
 | [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
-| [Most Common Word](https://leetcode.com/problems/most-common-word/)  |  |  |
+| [Most Common Word](https://leetcode.com/problems/most-common-word/)  | Done |  |
 | [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |  |  |
-| [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) |  |  |
+| [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) | Done |  |
 | [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  |  |  |
 | [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  |  |  |
 | [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |  |  |
-|  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  |  |  |
+|  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  | Done |  |
 | [Friend Circles]( https://leetcode.com/problems/friend-circles/) |  |  |
 
 ---
