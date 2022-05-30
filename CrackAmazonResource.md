@@ -67,15 +67,15 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Longest Substring Without Repeating Characters]( https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  |  |
-| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  |  |  |
-| [Merge Intervals]( https://leetcode.com/problems/merge-intervals/)  |  |  |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | Done |  |
+| [Merge Intervals]( https://leetcode.com/problems/merge-intervals/)  | Done |  |
 | [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/)  |  |  |
-| [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  |  |  |
+| [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  | Done |  |
 | [Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii/) |  |  |
-| [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) |  |  |
+| [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) | Done |  |
 | [Sliding Window Maximum]( https://leetcode.com/problems/sliding-window-maximum/)  |  |  |
 | [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  |  |
-| [Best Time to Buy and Sell Stock]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  |  |
+| [Best Time to Buy and Sell Stock]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Done |  |
 
 ---
 <br>
